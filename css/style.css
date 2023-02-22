@@ -138,6 +138,7 @@
    .contact-image {
       grid-column: 3 / span 2;
       text-align: left;
+      align-self: auto;
    }
   
     /* Requirement 14 code here -- Do not remove this comment. */
@@ -147,6 +148,7 @@
     .method-image {
       grid-column: 2 / span 2;
       text-align: left;
+      align-self: auto;
     }
   
     /* Requirement 15 code here -- Do not remove this comment. */
