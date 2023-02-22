@@ -137,6 +137,7 @@
    .clients-image, 
    .contact-image {
       grid-column: 3 / span 2;
+      text-align: left;
    }
   
     /* Requirement 14 code here -- Do not remove this comment. */
@@ -145,6 +146,7 @@
     .about-image,
     .method-image {
       grid-column: 2 / span 2;
+      text-align: left;
     }
   
     /* Requirement 15 code here -- Do not remove this comment. */
